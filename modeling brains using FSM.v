@@ -1,3 +1,4 @@
+//development part 1:
 module top_module(
     input clk,
     input areset,    // Freshly brainwashed Lemmings walk left.
